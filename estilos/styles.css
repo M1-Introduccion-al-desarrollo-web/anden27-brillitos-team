@@ -111,3 +111,19 @@ form {
     outline: none;
     font-size: 14px;
   }  
+
+  .footer-nav {
+    position: static;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .footer-nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #4a90e2;
+  }
+  
+  .footer-nav a:hover {
+    text-decoration: underline;
+  }  
